@@ -5,6 +5,8 @@
 Toma mi vida la he enfocado hacia la tecnología y en especial la informática. En mi juventud estudié un módulo de FP de grado superior en Administración de sistemas informáticos, pero no quise quedarme ahi y cuando terminé comencé en la universidad. Actualmente soy graduado en informática.
 Desde 2016 he dirigido mi propia empresa de servivios de mantenimiento y consultoria a empresas y particulares. A principios de 2023 tome la decisión de dar un giro a mi vida y dedicarme a lo que realmente me apasiona, el desarrollo de software.
 
+En noviembre de 2023 finalicé la piscina del campus 42 Madrid fundación telefónica.
+
 _"Quizás no sea el mejor, ni el que más sepa, pero si creo firmemente que con motivación, esfuerzo, constancia y fuerza de voluntad se llega a donde se desee."_
 
 ## Tecnologías:
@@ -13,8 +15,8 @@ _"Quizás no sea el mejor, ni el que más sepa, pero si creo firmemente que con 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](🌱)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](🌱)
 <br>
 y sigo aprendiendo...
 
