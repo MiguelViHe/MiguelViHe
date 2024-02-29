@@ -5,7 +5,7 @@
 Toma mi vida la he enfocado hacia la tecnología y en especial la informática. En mi juventud estudié un módulo de FP de grado superior en Administración de sistemas informáticos, pero no quise quedarme ahi y cuando terminé comencé en la universidad. Actualmente soy graduado en informática.
 Desde 2016 he dirigido mi propia empresa de servivios de mantenimiento y consultoria a empresas y particulares. A principios de 2023 tome la decisión de dar un giro a mi vida y dedicarme a lo que realmente me apasiona, el desarrollo de software.
 
-En noviembre de 2023 finalicé la piscina del campus 42 Madrid fundación telefónica.
+Desde Enero de 2024 estoy estudiando en el campus 42 Madrid fundación telefónica de desarrollo de software.
 
 _"Quizás no sea el mejor, ni el que más sepa, pero si creo firmemente que con motivación, esfuerzo, constancia y fuerza de voluntad se llega a donde se desee."_
 
