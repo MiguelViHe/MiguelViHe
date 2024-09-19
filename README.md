@@ -5,9 +5,14 @@
 Toma mi vida la he enfocado hacia la tecnología y en especial la informática. En mi juventud estudié un módulo de FP de grado superior en Administración de sistemas informáticos, pero no quise quedarme ahi y cuando terminé comencé en la universidad. Actualmente soy graduado en informática.
 Desde 2016 he dirigido mi propia empresa de servivios de mantenimiento y consultoria a empresas y particulares. A principios de 2023 tome la decisión de dar un giro a mi vida y dedicarme a lo que realmente me apasiona, el desarrollo de software.
 
-Desde Enero de 2024 estoy estudiando en el campus 42 Madrid fundación telefónica de desarrollo de software.
+A finales de 2023 me lancé a la piscina de 42 fundación telefónica y desde Enero de 2024, soy estudiante en su campus de 42Madrid de desarrollo de software.
 
-_"Quizás no sea el mejor, ni el que más sepa, pero si creo firmemente que con motivación, esfuerzo, constancia y fuerza de voluntad se llega a donde se desee."_
+_"Con motivación, esfuerzo, constancia y fuerza de voluntad se llega a donde se desee."_
+
+## 🌐 Encuéntrame
+
+<a href="https://www.linkedin.com/in/miguel-vidal-hernando-1b7667266/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+<a href="mailto:miguelvidalhernando@gmail.com" target="_blank">![GMAIL](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)</a>
 
 ## Tecnologías:
 
