@@ -3,7 +3,7 @@
 ### Igneniero informático y apasionado del desarrollo de software.
 
 Toma mi vida la he enfocado hacia la tecnología y en especial la informática. En mi juventud estudié un módulo de FP de grado superior en Administración de sistemas informáticos, pero no quise quedarme ahi y cuando terminé comencé en la universidad. Actualmente soy graduado en informática.
-Desde 2016 he dirigido mi propia empresa de servivios de mantenimiento y consultoria a empresas y particulares. A principios de 2023 tome la decisión de dar un giro a mi vida y dedicarme a lo que realmente me apasiona, el desarrollo de software.
+Desde 2016 he dirigido mi propia empresa de servicios de mantenimiento y consultoría a empresas y particulares. A principios de 2023 tome la decisión de dar un giro a mi vida y dedicarme a lo que realmente me apasiona, el desarrollo de software.
 
 A finales de 2023 me lancé a la piscina de 42 fundación telefónica y desde Enero de 2024, soy estudiante en su campus de 42Madrid de desarrollo de software.
 
