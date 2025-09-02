@@ -1,4 +1,4 @@
-# ![MiguelViHe](https://github.com/MiguelViHe/MiguelViHe/blob/eaa441d7b911d3292193e46c32414e70c950a3ed/solete_emote.png) Hola, mi nombre es Miguel Vidal. ¡Bienvenido!
+# ![MiguelViHe](https://github.com/MiguelViHe/MiguelViHe/blob/eaa441d7b911d3292193e46c32414e70c950a3ed/solete_emote.png) Hola, mi nombre es Miguel Vidal. ¡Bienvenido! ![MiguelViHe](https://github.com/MiguelViHe/MiguelViHe/blob/eaa441d7b911d3292193e46c32414e70c950a3ed/cat-3294818_210.png)
 
 ### Igneniero informático y apasionado del desarrollo de software.
 
