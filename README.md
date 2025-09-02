@@ -1,9 +1,9 @@
-# Hola, mi nombre es Miguel Vidal. ¡Bienvenido! ![MiguelViHe](https://github.com/MiguelViHe/MiguelViHe/blob/eaa441d7b911d3292193e46c32414e70c950a3ed/mano_solete_emote.png)
+# ![MiguelViHe](https://github.com/MiguelViHe/MiguelViHe/blob/eaa441d7b911d3292193e46c32414e70c950a3ed/solete_emote.png) Hola, mi nombre es Miguel Vidal. ¡Bienvenido!
 
 ### Igneniero informático y apasionado del desarrollo de software.
 
 Toma mi vida la he enfocado hacia la tecnología y en especial la informática. En mi juventud estudié un módulo de FP de grado superior en Administración de sistemas informáticos, pero no quise quedarme ahi y cuando terminé comencé en la universidad. Actualmente soy graduado en informática.
-Desde 2016 he dirigido mi propia empresa de servicios de mantenimiento y consultoría a empresas y particulares. A principios de 2023 tome la decisión de dar un giro a mi vida y dedicarme a lo que realmente me apasiona, el desarrollo de software.
+Desde 2016 he dirigido mi propia empresa de servicios de mantenimiento y consultoría a empresas y particulares. A principios de 2023 tome la decisión de dar un salto más en mi carrera y dedicarme a lo que realmente me apasiona, el desarrollo de software.
 
 A finales de 2023 me lancé a la piscina de 42 fundación telefónica y desde Enero de 2024, soy estudiante en su campus de 42Madrid de desarrollo de software.
 
@@ -17,6 +17,7 @@ _"Con motivación, esfuerzo, constancia y fuerza de voluntad se llega a donde se
 ## Tecnologías:
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
