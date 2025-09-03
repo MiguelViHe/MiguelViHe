@@ -1,4 +1,4 @@
-# ![MiguelViHe](https://raw.githubusercontent.com/MiguelViHe/MiguelViHe/main/gato210.png) Hola, mi nombre es Miguel Vidal. ¡Bienvenido!
+# ![MiguelViHe](https://raw.githubusercontent.com/MiguelViHe/MiguelViHe/main/cat.png) Hola, mi nombre es Miguel Vidal. ¡Bienvenido!
 
 ### Igneniero informático y apasionado del desarrollo de software.
 
